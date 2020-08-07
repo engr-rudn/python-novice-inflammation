@@ -49,7 +49,7 @@ before_install:
   - Rscript -e "install.packages(setdiff(c('renv', 'rprojroot'), installed.packages()), loc = Sys.getenv('R_LIBS_USER')); update.packages(lib.loc = Sys.getenv('R_LIBS_USER'), ask = FALSE, checkBuilt = TRUE)"
   - Rscript -e 'sessionInfo()'
   ## Install python and dependencies
-  - python3 -m pip install --upgrade pip setuptools wheels
+  - python3 -m pip install --upgrade pip setuptools wheel
   - python3 -m pip install pyyaml
 
 script:
