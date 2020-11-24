@@ -107,7 +107,15 @@ If you installed Anaconda, you can launch a notebook in two ways:
 
 &nbsp; <!-- vertical spacer -->
 
+## Demo on how to install geemap and rasterio  
+
+After you successfully install anaconda, use the following video as a demo how to install the python geospatial libraries geemap and rasterio
+
+https://pfur.sharepoint.com/:v:/s/PYEE01/EeLO_lAZyFNNns3uAcTvKOoBzPzOS7mdMsIAqdJLsRfAVw?e=mgAgFw
+
 ## Option B: IPython interpreter
+
+
 
 IPython is an alternative solution situated somewhere in between the plain-vanilla Python
 interpreter and Jupyter Notebook. It provides an interactive command-line based interpreter with
