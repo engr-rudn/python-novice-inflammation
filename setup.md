@@ -109,9 +109,9 @@ If you installed Anaconda, you can launch a notebook in two ways:
 
 ## Demo on how to install geemap and rasterio  
 
-After you successfully install anaconda, use the following video as a demo how to install the python geospatial libraries geemap and rasterio
+After you successfully install anaconda, click the following link (Demo of geemap and rasterio installation) and it will open a video that shows how to install the python geospatial libraries geemap and rasterio
 
-https://pfur.sharepoint.com/:v:/s/PYEE01/EeLO_lAZyFNNns3uAcTvKOoBzPzOS7mdMsIAqdJLsRfAVw?e=mgAgFw
+<a name="Demo">[Demo of geemap and rasterio installation](https://pfur.sharepoint.com/:v:/s/PYEE01/EeLO_lAZyFNNns3uAcTvKOoBzPzOS7mdMsIAqdJLsRfAVw?e=mgAgFw)</a>
 
 ## Option B: IPython interpreter
 
